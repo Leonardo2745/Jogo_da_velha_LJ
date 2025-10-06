@@ -9,6 +9,12 @@ public final class Move {
         this.coluna = coluna;
     }
 
-    public int getLinha() { return linha; }
-    public int getColuna() { return coluna; }
+    public int getLinha() {
+        return linha;
+    }
+    public int getColuna() {
+        return coluna;
+    }
 }
+
+
